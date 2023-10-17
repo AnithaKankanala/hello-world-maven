@@ -2,9 +2,6 @@ package hello;
 
 public class Greeter {
 	public String sayHello() {
-		return "Hi, Atin Gupta! v176";
-
-
-		
+		return "Hi, Atin Gupta! v176";	
 	}
 }
